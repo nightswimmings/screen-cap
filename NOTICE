@@ -1,0 +1,13 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This project incorporates components from the projects listed below. 
+The original copyright notices and the licenses under which I received such components 
+are set forth below. 
+
+jNativeHook   
+(https://github.com/kwhat/jnativehook)   
+Licensed under the GNU Lesser General Public License Version 3
+
+JavaCV  
+(https://github.com/bytedeco/javacv)   
+Licensed under the Apache License Version 2.0
